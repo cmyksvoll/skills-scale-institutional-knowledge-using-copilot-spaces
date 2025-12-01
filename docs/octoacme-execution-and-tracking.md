@@ -8,6 +8,17 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
 
+## Key Roles in Execution
+- **Scrum Master:** Facilitates daily standups, removes blockers, tracks velocity
+- **Developers:** Implement features, participate in code reviews
+- **QA:** Execute tests, validate acceptance criteria, report defects
+- **UX Designer:** Supports implementation, reviews UI accuracy
+- **Technical Writer:** Creates documentation as features complete
+- **Project Manager:** Tracks progress, manages risks, coordinates dependencies
+- **Product Manager:** Clarifies requirements, approves completed work
+
+> For detailed role descriptions, see [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
 - Pull Request workflow:

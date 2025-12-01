@@ -16,6 +16,18 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+## Key Roles in Planning
+- **Project Manager:** Facilitates kickoff, creates release plan, manages dependencies
+- **Product Manager:** Prioritizes backlog, defines acceptance criteria
+- **Scrum Master:** Facilitates planning sessions, coaches on estimation
+- **Developers:** Estimate work, identify technical dependencies
+- **UX Designer:** Provides design specifications for UI/UX work
+- **Solution Architect:** Validates technical approach, identifies integration points
+- **Business Analyst:** Clarifies requirements, refines user stories
+- **QA:** Reviews testability, drafts initial test approach
+
+> For detailed role descriptions, see [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Backlog Item Template
 - Title:
 - Description:

@@ -17,6 +17,14 @@ After each sprint, release, or important milestone. Also after incidents.
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 
+## Key Roles in Retrospectives
+- **Scrum Master:** Facilitates the retrospective, ensures inclusive discussion
+- **Project Manager:** Participates, helps prioritize action items with delivery impact
+- **Developers, QA, UX Designer, Technical Writer:** Contribute feedback on process and collaboration
+- **Product Manager:** Provides input on priorities and trade-offs
+
+> For detailed role descriptions, see [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
