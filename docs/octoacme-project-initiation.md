@@ -19,6 +19,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+## Key Roles in Initiation
+- **Project Manager:** Facilitates initiation activities, creates one-pager, identifies stakeholders
+- **Product Manager:** Defines problem statement, success metrics, and business value
+- **Stakeholders:** Approve business need and provide initial requirements
+- **Business Analyst:** Gathers detailed business requirements and context
+- **Solution Architect:** Assesses technical feasibility and identifies constraints
+
+> For detailed role descriptions, see [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
@@ -27,7 +36,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: (Consider: PM, PdM, Developers, QA, Scrum Master, UX Designer, Technical Writer, Solution Architect, Business Analyst)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

@@ -24,6 +24,15 @@ Maintain a simple table with:
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
+## Key Roles in Risk & Communication Management
+- **Project Manager:** Maintains risk register, coordinates stakeholder communication
+- **Product Manager:** Communicates priority changes and trade-offs to stakeholders
+- **Solution Architect:** Identifies and assesses technical risks
+- **Business Analyst:** Identifies business risks and stakeholder concerns
+- **Scrum Master:** Facilitates team discussions on blockers and impediments
+
+> For detailed role descriptions, see [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Communication Templates
 Weekly Status Template:
 - Progress this week:

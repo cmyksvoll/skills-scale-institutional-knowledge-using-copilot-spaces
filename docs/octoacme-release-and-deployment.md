@@ -15,6 +15,15 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+## Key Roles in Release
+- **Project Manager:** Coordinates release timeline, ensures readiness
+- **Developers:** Execute deployment, address issues
+- **QA:** Performs final testing, validates release readiness
+- **Technical Writer:** Finalizes release notes and documentation
+- **Stakeholders:** Receive release announcements, provide go/no-go approval
+
+> For detailed role descriptions, see [Roles & Personas](octoacme-roles-and-personas.md)
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
